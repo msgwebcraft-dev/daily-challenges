@@ -73,5 +73,7 @@ This repository is open-source under the [MIT License](LICENSE).
 ## 📫 Contact
 
 Feel free to connect via [LinkedIn](https://www.linkedin.com/in/mmela-dyantyi-849aa52a3/) or open an issue for discussion or suggestions.
+## About Me:
+https://www.16personalities.com/profiles/entj-a/m/9y0rhpceo
 
 
